@@ -1,0 +1,3 @@
+[submodule "client1"]
+	path = client1
+	url = git@github.com:AlinaShahmur/usersManagementClient.git
